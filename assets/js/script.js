@@ -97,7 +97,18 @@ document.addEventListener("DOMContentLoaded", () => {
                     "bathrooms": "2 Bath",
                     "sqft": "1120 sqft",
                     "badge":"New",
-                }
+                },
+                {
+                    "image": "/assets/images/property-8.jpg",
+                    "alt": "Cova Home Reality",
+                    "price": "$948.55",
+                    "title": "Cova Home Reality",
+                    "address": "1098 Washington Ave. Manchester, Hawai 39495",
+                    "bedrooms": "3 Bed",
+                    "bathrooms": "2 Bath",
+                    "sqft": "1420 sqft",
+                    "badge":"New",
+                },
             
             
             // Add more property objects as needed
